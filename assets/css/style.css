@@ -1,0 +1,12 @@
+h1,
+h2{
+    text-align: center;
+}
+
+
+header{
+    position:fixed;
+    top:0px;
+    width:100%;
+    background-color: darkseagreen;
+}
